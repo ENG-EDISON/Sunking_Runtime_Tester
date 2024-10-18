@@ -1,4 +1,11 @@
-23839631339065133
+23844818241046558
+24C256
+SOIC127P600X175-8N
+SOP8J-Z-PKG
+Integrated Circuit
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63496,6 +63503,20 @@ solder jumper open
 0
 5
 3
+KiCad
+SOT94P279X130-5N
+SOT-23-5 Surface Mount Package
+Integrated Circuit
+0
+5
+5
+KiCad-SSD1306_OLED
+SSD1306_OLED-0.91-128x32
+
+
+0
+14
+14
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -95955,8 +95976,8 @@ igbt diode module
 0
 25
 25
-USB_A_Male
-GCT_USB1061-XX-X-X_REVA
+USBA_Male
+USBA_Male
 
 
 0

@@ -3389,10 +3389,6 @@
 		(uuid "185b3eb0-27eb-4374-8ec2-67de17adc823")
 	)
 	(no_connect
-		(at 226.06 90.17)
-		(uuid "1cec9784-00ef-450f-9fe9-8ec1cda41e4b")
-	)
-	(no_connect
 		(at 142.24 44.45)
 		(uuid "23bab355-ca6a-43bc-b4e3-a1b25256202a")
 	)
@@ -3491,10 +3487,6 @@
 	(no_connect
 		(at 226.06 69.85)
 		(uuid "a06a2311-98bb-4ca7-b7f5-f05f7912e023")
-	)
-	(no_connect
-		(at 226.06 92.71)
-		(uuid "a5325e4a-034e-4b50-b9ce-718a57f44a2c")
 	)
 	(no_connect
 		(at 259.08 69.85)
@@ -4410,6 +4402,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 92.71) (xy 226.06 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b67c5cfc-1b41-421c-b77f-9196beb9708b")
+	)
+	(wire
+		(pts
 			(xy 218.44 87.63) (xy 226.06 87.63)
 		)
 		(stroke
@@ -4800,6 +4802,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 90.17) (xy 226.06 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2adfa79-4bc6-4adf-96e9-de3f7bd286a3")
+	)
+	(wire
+		(pts
 			(xy 71.12 156.21) (xy 71.12 158.75)
 		)
 		(stroke
@@ -4872,6 +4884,17 @@
 		)
 		(uuid "b47af315-1c65-4c1d-959b-d7dafd3a77d1")
 	)
+	(label "EEPROM_SCL"
+		(at 209.55 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "075be546-861f-4a15-a37c-d6fcb5b34f5c")
+	)
 	(label "OSC_IN"
 		(at 262.89 128.27 0)
 		(fields_autoplaced yes)
@@ -4894,7 +4917,7 @@
 		)
 		(uuid "28fe9919-023e-4679-96a5-62138a250206")
 	)
-	(label "Oled_SDA"
+	(label "EEPROM_SDA"
 		(at 187.96 39.37 90)
 		(fields_autoplaced yes)
 		(effects
@@ -5004,7 +5027,7 @@
 		)
 		(uuid "922d78f6-f463-4883-8b55-2a58f9d6fef9")
 	)
-	(label "Oled_SDA"
+	(label "EEPROM_SDA"
 		(at 163.83 39.37 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5037,7 +5060,18 @@
 		)
 		(uuid "d54fa321-9f10-41ea-b531-63daa6b21926")
 	)
-	(label "Oled_SCL"
+	(label "EEPROM_SDA"
+		(at 209.55 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "daabfce8-3c4d-49f3-bda2-e77ac7aab24b")
+	)
+	(label "EEPROM_SCL"
 		(at 163.83 41.91 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5048,7 +5082,7 @@
 		)
 		(uuid "e5473a71-3073-40f8-b859-170a682a53c2")
 	)
-	(label "Oled_SCL"
+	(label "EEPROM_SCL"
 		(at 181.61 39.37 90)
 		(fields_autoplaced yes)
 		(effects
@@ -7644,15 +7678,15 @@
 		(dnp no)
 		(uuid "87a242fe-f737-415f-aa09-2038c0ee626c")
 		(property "Reference" "R1"
-			(at 179.324 43.18 90)
+			(at 179.324 44.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 179.324 41.148 90)
+		(property "Value" "10K"
+			(at 179.07 41.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8542,7 +8576,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS"
+		(property "Footprint" "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
 			(at 62.23 161.29 0)
 			(effects
 				(font
@@ -9024,14 +9058,14 @@
 		(dnp no)
 		(uuid "f2ac5238-5543-4c32-8c4f-4541ebe180fc")
 		(property "Reference" "R2"
-			(at 185.674 43.18 90)
+			(at 185.166 44.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 185.674 41.148 90)
 			(effects
 				(font
