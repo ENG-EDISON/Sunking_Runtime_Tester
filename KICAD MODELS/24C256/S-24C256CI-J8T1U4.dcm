@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S-24C256CI-J8T1U4
+D EEPROM 256Kb Serial I2C
+K
+F https://www.ablic.com/en/doc/datasheet/serial_eeprom/S24C256C_E.pdf
+$ENDCMP
+#
+#End Doc Library
