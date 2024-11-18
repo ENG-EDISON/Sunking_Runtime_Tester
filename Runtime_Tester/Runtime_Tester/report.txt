@@ -1,0 +1,341 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC1:KiCad:SOT94P279X130-5N'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J1:Usba_male:USBA_Male'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'U2:24C256:SOIC127P600X175-8N'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm'.
+Updated C1 footprint filters to 'C_*'.
+Add net +5V.
+Connected C1 pin 1 to +5V.
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0603_1608Metric to 2.2uF.
+Updated C2 symbol association from  to /0202af19-44c8-4e62-b7ca-f3a6c3d9da0e.
+Updated C2 fields.
+Updated C2 sheetname to 'Root'.
+Updated C2 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net +3.3V.
+Connected C2 pin 1 to +3.3V.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0603_1608Metric to 22nF.
+Updated C3 symbol association from  to /189cbf4d-b9a3-4de7-b601-94b2c4ed8a91.
+Updated C3 fields.
+Updated C3 sheetname to 'Root'.
+Updated C3 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Add net Net-(IC1-BP).
+Connected C3 pin 1 to Net-(IC1-BP).
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0603_1608Metric to 1.1uF.
+Updated C4 symbol association from  to /695a5001-b710-4680-9df1-525790a7d16c.
+Updated C4 sheetname to 'Root'.
+Updated C4 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Add net +3V3.
+Connected C4 pin 1 to +3V3.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0603_1608Metric to 10uF.
+Updated C5 symbol association from  to /970ea945-ab2c-4cbd-9e93-111119179f9f.
+Updated C5 fields.
+Updated C5 sheetname to 'Root'.
+Updated C5 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 2 to GND.
+Add net /Reset.
+Connected C5 pin 1 to /Reset.
+Added C6 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0603_1608Metric to 10uF.
+Updated C6 symbol association from  to /bb96aeee-d358-49be-a4e4-b9f2632df9d1.
+Updated C6 fields.
+Updated C6 sheetname to 'Root'.
+Updated C6 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Add net /Continue.
+Connected C6 pin 1 to /Continue.
+Added C7 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0603_1608Metric to 100 nF.
+Updated C7 symbol association from  to /d89a5b62-805e-46ff-b217-4a9c5ad1b9cc.
+Updated C7 fields.
+Updated C7 sheetname to 'Root'.
+Updated C7 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to +3.3V.
+Connected C7 pin 2 to GND.
+Updated C4 fields.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0603_1608Metric to 100 nF.
+Updated C8 symbol association from  to /3123efa1-cc68-4272-b101-a95f6fe0c1eb.
+Updated C8 fields.
+Updated C8 sheetname to 'Root'.
+Updated C8 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 2 to GND.
+Connected C8 pin 1 to +3.3V.
+Added C9 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0603_1608Metric to 100 nF.
+Updated C9 symbol association from  to /1a6b19c3-bcb6-4b3c-988e-6dfe145ae364.
+Updated C9 fields.
+Updated C9 sheetname to 'Root'.
+Updated C9 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to +3.3V.
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0603_1608Metric to 100 nF.
+Updated C10 symbol association from  to /051a8359-3bdd-4740-85cd-7da39750f4c4.
+Updated C10 fields.
+Updated C10 sheetname to 'Root'.
+Updated C10 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to GND.
+Connected C10 pin 1 to +3.3V.
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0603_1608Metric to C_Small.
+Updated C11 symbol association from  to /0ae7bc7b-c868-4287-a913-89fccf33d689.
+Updated C11 fields.
+Updated C11 sheetname to 'Root'.
+Updated C11 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Add net /OSC_IN.
+Connected C11 pin 1 to /OSC_IN.
+Add net Net-(C11-Pad2).
+Connected C11 pin 2 to Net-(C11-Pad2).
+Added C12 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0603_1608Metric to C_Small.
+Updated C12 symbol association from  to /4ab6e68b-0afb-4a19-b653-0d42181007fb.
+Updated C12 fields.
+Updated C12 sheetname to 'Root'.
+Updated C12 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Connected C12 pin 1 to Net-(C11-Pad2).
+Add net /OSC_OUT.
+Connected C12 pin 2 to /OSC_OUT.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric to R.
+Updated R1 symbol association from  to /87a242fe-f737-415f-aa09-2038c0ee626c.
+Updated R1 fields.
+Updated R1 sheetname to 'Root'.
+Updated R1 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /Oled_SCL.
+Connected R1 pin 2 to /Oled_SCL.
+Connected R1 pin 1 to GND.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0603_1608Metric to R.
+Updated R2 symbol association from  to /f2ac5238-5543-4c32-8c4f-4541ebe180fc.
+Updated R2 fields.
+Updated R2 sheetname to 'Root'.
+Updated R2 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to GND.
+Add net /Oled_SDA.
+Connected R2 pin 2 to /Oled_SDA.
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric to 100k.
+Updated R3 symbol association from  to /1ce83f52-95a9-413a-a022-97ce6eb11e0a.
+Updated R3 fields.
+Updated R3 sheetname to 'Root'.
+Updated R3 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to +5V.
+Connected R3 pin 2 to GND.
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric to 10k.
+Updated R4 symbol association from  to /eb61d586-beae-4c53-b347-b3b47eff76e8.
+Updated R4 fields.
+Updated R4 sheetname to 'Root'.
+Updated R4 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 2 to /Reset.
+Connected R4 pin 1 to +3.3V.
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R5 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0603_1608Metric to 10k.
+Updated R5 symbol association from  to /12a90e0a-6e6d-4737-8332-1f706b3a2b82.
+Updated R5 fields.
+Updated R5 sheetname to 'Root'.
+Updated R5 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to +3.3V.
+Connected R5 pin 2 to /Continue.
+Changed REF** reference designator to C1.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric to R.
+Updated R6 symbol association from  to /c211d456-dcb4-42f6-a784-cc98f71b7a75.
+Updated R6 fields.
+Updated R6 sheetname to 'Root'.
+Updated R6 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 2 to /OSC_OUT.
+Connected R6 pin 1 to /OSC_IN.
+Changed C1 value from C_0603_1608Metric to 2.2uF.
+Added SW1 (footprint 'Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_Tactile_SPST_Angled_PTS645Vx83-2LFS to Reset.
+Updated SW1 symbol association from  to /1d7f54fe-5b81-4650-a63e-1f48041d7a95.
+Updated SW1 fields.
+Updated SW1 sheetname to 'Root'.
+Updated SW1 sheetfile to 'Rntime_Tester.kicad_sch'.
+Connected SW1 pin 2 to /Reset.
+Connected SW1 pin 1 to GND.
+Updated C1 symbol association from  to /e28a3201-fc14-48f0-b0d8-183264249218.
+Added SW2 (footprint 'Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_Tactile_SPST_Angled_PTS645Vx83-2LFS to Continue.
+Updated SW2 symbol association from  to /e03d4911-b69f-473a-80ae-1bd738ba456a.
+Updated SW2 fields.
+Updated SW2 sheetname to 'Root'.
+Updated SW2 sheetfile to 'Rntime_Tester.kicad_sch'.
+Connected SW2 pin 2 to /Continue.
+Connected SW2 pin 1 to GND.
+Updated C1 fields.
+Added U1 (footprint 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from LQFP-48_7x7mm_P0.5mm to STM32F103C8Tx.
+Updated U1 symbol association from  to /5a7fadd1-fa3f-470c-8d08-0575e29bd212.
+Updated U1 fields.
+Updated U1 sheetname to 'Root'.
+Updated U1 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated U1 footprint filters to 'LQFP*7x7mm*P0.5mm*'.
+Add net unconnected-(U1-PB2-Pad20).
+Connected U1 pin 20 to unconnected-(U1-PB2-Pad20).
+Add net unconnected-(U1-PA12-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PA12-Pad33).
+Connected U1 pin 48 to +3.3V.
+Add net unconnected-(U1-PA14-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PA14-Pad37).
+Add net unconnected-(U1-PB12-Pad25).
+Connected U1 pin 25 to unconnected-(U1-PB12-Pad25).
+Add net unconnected-(U1-PA9-Pad30).
+Connected U1 pin 30 to unconnected-(U1-PA9-Pad30).
+Connected U1 pin 6 to /OSC_OUT.
+Add net unconnected-(U1-PA1-Pad11).
+Connected U1 pin 11 to unconnected-(U1-PA1-Pad11).
+Add net unconnected-(U1-PB7-Pad43).
+Connected U1 pin 43 to unconnected-(U1-PB7-Pad43).
+Add net unconnected-(U1-PA0-Pad10).
+Connected U1 pin 10 to unconnected-(U1-PA0-Pad10).
+Add net unconnected-(U1-PC15-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PC15-Pad4).
+Add net unconnected-(U1-PB3-Pad39).
+Connected U1 pin 39 to unconnected-(U1-PB3-Pad39).
+Add net unconnected-(U1-PB5-Pad41).
+Connected U1 pin 41 to unconnected-(U1-PB5-Pad41).
+Connected U1 pin 9 to +3.3V.
+Add net unconnected-(U1-PB14-Pad27).
+Connected U1 pin 27 to unconnected-(U1-PB14-Pad27).
+Connected U1 pin 47 to GND.
+Add net unconnected-(U1-VBAT-Pad1).
+Connected U1 pin 1 to unconnected-(U1-VBAT-Pad1).
+Add net unconnected-(U1-PB6-Pad42).
+Connected U1 pin 42 to unconnected-(U1-PB6-Pad42).
+Add net unconnected-(U1-PB10-Pad21).
+Connected U1 pin 21 to unconnected-(U1-PB10-Pad21).
+Add net unconnected-(U1-PB15-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PB15-Pad28).
+Add net unconnected-(U1-PA7-Pad17).
+Connected U1 pin 17 to unconnected-(U1-PA7-Pad17).
+Connected U1 pin 23 to GND.
+Connected U1 pin 15 to /Reset.
+Add net unconnected-(U1-PA15-Pad38).
+Connected U1 pin 38 to unconnected-(U1-PA15-Pad38).
+Connected U1 pin 46 to /Oled_SDA.
+Add net unconnected-(U1-PB13-Pad26).
+Connected U1 pin 26 to unconnected-(U1-PB13-Pad26).
+Connected U1 pin 8 to GND.
+Connected U1 pin 24 to +3.3V.
+Add net unconnected-(U1-PB11-Pad22).
+Connected U1 pin 22 to unconnected-(U1-PB11-Pad22).
+Add net unconnected-(U1-PB0-Pad18).
+Connected U1 pin 18 to unconnected-(U1-PB0-Pad18).
+Add net unconnected-(U1-PA13-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PA13-Pad34).
+Add net unconnected-(U1-PA3-Pad13).
+Connected U1 pin 13 to unconnected-(U1-PA3-Pad13).
+Connected U1 pin 5 to /OSC_IN.
+Add net unconnected-(U1-PB1-Pad19).
+Connected U1 pin 19 to unconnected-(U1-PB1-Pad19).
+Connected U1 pin 16 to /Continue.
+Add net unconnected-(U1-PA4-Pad14).
+Connected U1 pin 14 to unconnected-(U1-PA4-Pad14).
+Connected U1 pin 45 to /Oled_SCL.
+Add net unconnected-(U1-PC14-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PC14-Pad3).
+Add net unconnected-(U1-PA8-Pad29).
+Connected U1 pin 29 to unconnected-(U1-PA8-Pad29).
+Add net unconnected-(U1-PC13-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PC13-Pad2).
+Add net unconnected-(U1-PA10-Pad31).
+Connected U1 pin 31 to unconnected-(U1-PA10-Pad31).
+Add net unconnected-(U1-PA11-Pad32).
+Connected U1 pin 32 to unconnected-(U1-PA11-Pad32).
+Connected U1 pin 35 to GND.
+Add net unconnected-(U1-BOOT0-Pad44).
+Connected U1 pin 44 to unconnected-(U1-BOOT0-Pad44).
+Add net unconnected-(U1-PA2-Pad12).
+Connected U1 pin 12 to unconnected-(U1-PA2-Pad12).
+Add net unconnected-(U1-PB4-Pad40).
+Connected U1 pin 40 to unconnected-(U1-PB4-Pad40).
+Connected U1 pin 36 to +3.3V.
+Add net unconnected-(U1-NRST-Pad7).
+Connected U1 pin 7 to unconnected-(U1-NRST-Pad7).
+Updated C1 sheetname to 'Root'.
+Updated C1 sheetfile to 'Rntime_Tester.kicad_sch'.
+Added Y1 (footprint 'Crystal:Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm to Crystal.
+Updated Y1 symbol association from  to /59965352-91ce-49f5-9582-907738419027.
+Updated Y1 fields.
+Updated Y1 sheetname to 'Root'.
+Updated Y1 sheetfile to 'Rntime_Tester.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 2 to /OSC_OUT.
+Connected Y1 pin 1 to /OSC_IN.
+Error: Cannot add U2 (footprint '24C256:SOIC127P600X175-8N' not found).
+Error: Cannot add J1 (footprint 'Usba_male:USBA_Male' not found).
+Error: Cannot add IC1 (footprint 'KiCad:SOT94P279X130-5N' not found).
+
+
+Info: Total warnings: 0, errors: 3.
